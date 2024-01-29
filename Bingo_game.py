@@ -2,7 +2,7 @@
 """
 Created on Wed Dec 27 18:39:08 2023
 
-@author: mohammad
+@author: mohammadkhandemay
 """
 
 import random
